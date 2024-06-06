@@ -1,0 +1,18 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+Keypad
+LiquidCrystal
+
+StateMachineLib
+LiquidMenu
+Servo
+StateMachine
+AsyncTaskLib
+EasyBuzzer
+DHT11
+DHT sensor library
+MQUnifiedsensor
+OneButton
+RunningAverage
